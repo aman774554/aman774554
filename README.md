@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Aman chaturvedi.\n
+👋 Hi, I’m Aman chaturvedi.
 👀 I’m interested in Web Development and Software Testing.
 🌱 I’m currently studying in Lovely Professional University.
 📫 How to reach me aman774554@gmail.com
