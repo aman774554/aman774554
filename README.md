@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aman774554/aman774554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Aman chaturvedi.
+👀 I’m interested in Web Development and Software Testing.
+🌱 I’m currently studying in Lovely Professional University.
+📫 How to reach me aman774554@gmail.com
