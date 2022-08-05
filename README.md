@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m Aman chaturvedi.<br />
-👀 I’m interested in Web Development and Software Testing.<br />
+👀 I’m interested in Web Development.<br />
 🌱 I’m currently studying in Lovely Professional University.<br />
 📫 How to reach me aman774554@gmail.com
