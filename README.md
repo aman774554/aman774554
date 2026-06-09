@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m Aman chaturvedi.<br />
-👀 I’m a MERN Stack Development.<br />
+👀 I’m a Full stack Developer.<br />
 🌱 I’m currently working for Calsoft Private Ltd.<br />
 📫 How to reach me aman774554@gmail.com
